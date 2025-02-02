@@ -1,7 +1,4 @@
-
-![gif](https://github.com/user-attachments/assets/5417b2d8-2775-4e1a-9d9e-27ab7d282b14)
-
-
+![vid1_2 (3)](https://github.com/user-attachments/assets/090214da-1edf-4d9d-a10c-0f233617d45d)
 # Romyk template
 - [Demo project](https://aliasgharhasanzadeh.github.io/romyk-template/)
 - Technologies used : Html , css
