@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/87759d2a-21b2-4e0a-9f04-d31230aeed82
+[preview gif](https://github.com/user-attachments/assets/87759d2a-21b2-4e0a-9f04-d31230aeed82)
 # Romyk template
 - [Demo project](https://aliasgharhasanzadeh.github.io/romyk-template/)
 - Technologies used : Html , css
